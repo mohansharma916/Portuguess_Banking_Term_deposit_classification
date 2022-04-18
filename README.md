@@ -3,7 +3,6 @@ In this project you will be provided with real world data which is related with 
 
 The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
-
 We are a data science team in thier offices and it our task to make the most sense of the data provided by the company.
 
 Let us Get Started!
