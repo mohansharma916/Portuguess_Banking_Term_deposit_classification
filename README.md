@@ -13,4 +13,4 @@ The step one should be accessing the data
 
 Our data has been curated by UCI Machine Learning Repository which is an excellent datahouse of various real world problems!
 
-We are going to use the Banking Data described by our friends in UCI here : 
+We are going to use the Banking Data described by our friends in UCI here : https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
